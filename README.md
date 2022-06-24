@@ -2,7 +2,7 @@
 
 BOOK-E-SELL internship project as intern of **Web Development** at TATVASOFT-Software Company, Ahmedabad during my Summer Internship.
 
-This my Frontend part of BOOK-E-SELL
+This is my Frontend part of BOOK-E-SELL
 
 # Getting Started with Create React App
 
